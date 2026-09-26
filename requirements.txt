@@ -1,0 +1,2 @@
+# Daily Utility v1.0.0
+# Python standard library only

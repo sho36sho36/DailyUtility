@@ -1,0 +1,7 @@
+APP_NAME = "Daily Utility"
+APP_VERSION = "1.0.0"
+
+WINDOW_WIDTH = 1000
+WINDOW_HEIGHT = 650
+
+PLUGIN_DIRECTORY = "plugins"
