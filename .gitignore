@@ -9,4 +9,6 @@ build/
 dist/
 *.spec
 
+*.zip
+
 .vscode/
